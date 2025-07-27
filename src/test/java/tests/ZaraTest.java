@@ -100,6 +100,7 @@ public class ZaraTest {
             logger.log(Level.SEVERE, "Product testinde hata oluştu.", e);
         }
     }
+
     @After
     public void closeDriver(){
         if (driver != null) {
@@ -107,4 +108,6 @@ public class ZaraTest {
             driver = null;
         }
     }
+
+
 }

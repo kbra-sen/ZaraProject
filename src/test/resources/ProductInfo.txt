@@ -16,3 +16,6 @@
 Ürün adı : PAMUKLU KETEN GÖMLEK
 Ürün fiyatı: 1.690,00 TL
 -------------------
+Ürün adı : %100 KETEN GÖMLEK
+Ürün fiyatı: 2.090,00 TL
+-------------------

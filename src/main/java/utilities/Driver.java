@@ -25,7 +25,7 @@ public class Driver {
         }
         return  driver;
     }
-
+/*
     public void CloseDriver()
     {
         if(driver != null)
@@ -33,5 +33,5 @@ public class Driver {
             driver.quit();
             driver=null;
         }
-    }
+    }*/
 }
