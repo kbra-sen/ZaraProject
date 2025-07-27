@@ -100,11 +100,15 @@ public class ZaraTest {
             logger.log(Level.SEVERE, "Product testinde hata oluştu.", e);
         }
     }
-   /* @After
+
+
+    @After
     public void closeDriver(){
         if (driver != null) {
             driver.quit();
             driver = null;
         }
-    }*/
+    }
 }
+
+
